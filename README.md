@@ -245,7 +245,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 </p>
 
-###💼 Skills
+💼 Skills
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
@@ -304,7 +304,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 
 <br>
 
-###&#x1f4c8; GitHub Stats
+&#x1f4c8; GitHub Stats
  
 
 <br>
