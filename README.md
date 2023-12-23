@@ -244,28 +244,19 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
-## 📊 GitHub Stats:
-<h3 align="center">
+## 📝 Latest Blog Posts
 
-<a href="https://github.com/AlawiDiv/github-readme-stats">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlawiDiv&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=10" alt="GitHub language stats" width="400">
-        </a>
-    </div>
+<br>
 
-  ![AlawiDiv](https://github-readme-stats.vercel.app/api?username=AlawiDiv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- BLOG-POST-LIST:START -->
+- [Build a Glassmorphic Navbar with TailwindCSS backdrop-filter & backdrop-blur](https://blog.braydoncoyer.dev/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-and-backdrop-blur)
+- [Creating the JAMstack Logo with CSS: A Step-By-Step Guide](https://blog.braydoncoyer.dev/creating-the-jamstack-logo-with-css-a-step-by-step-guide)
+- [Setting Yourself Up for Success: How I Define MVP (Minimal Viable Product)](https://blog.braydoncoyer.dev/setting-yourself-up-for-success-how-i-define-mvp-minimal-viable-product)
+- [GatsbyConf 2021 - Gatsby v3.0 And The New Gatsby Plugin Image](https://blog.braydoncoyer.dev/gatsbyconf-2021-gatsby-v30-and-the-new-gatsby-plugin-image)
+- [A Web Developer's iPad Setup for Productivity](https://blog.braydoncoyer.dev/a-web-developers-ipad-setup-for-productivity)
+<!-- BLOG-POST-LIST:END -->
 
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/AlawiDiv" width="600" /></a>
-  
-  <img src="https://metrics.lecoq.io/AlawiDiv?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-</p>  
-  
-![AlawiDiv](https://github-readme-streak-stats.herokuapp.com/?user=AlawiDiv&theme=dark&hide_border=false)<br/>
-
-<a href="https://github.com/AlawiDiv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlawiDiv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
-  
-  
+<br>
 ## Follow the news channel on Telegram💻
  <p align="center"><a href="https://t.me/AWCODE3"> 
 <img src="https://telegra.ph/file/bd556ffdac3d12a449c5f.jpg" width="320" height="38.45"/></a></p>
