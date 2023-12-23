@@ -343,5 +343,5 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 <a href="#"><img src="youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="#"><img src="snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="https://t.me/ALAWE1"><img src="telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px"> </a>    
-<a href="#"><img src="tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
+<a href="tiktok.com/@AlawiDiv"><img src="tiktok.svg" alt="AlawiDiv" style="vertical-align:top; margin:6px 4px">
 </p>
