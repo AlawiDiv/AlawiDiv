@@ -258,7 +258,22 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 
 <br>
 <br>
- 
+
+
+  ![AlawiDiv](https://github-readme-stats.vercel.app/api?username=AlawiDiv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/AlawiDiv" width="600" /></a>
+  
+  <img src="https://metrics.lecoq.io/AlawiDiv?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+</p>  
+  
+![AlawiDiv](https://github-readme-streak-stats.herokuapp.com/?user=AlawiDiv&theme=dark&hide_border=false)<br/>
+
+<a href="https://github.com/AlawiDiv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlawiDiv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
+  
+  
 ## Follow the news channel on Telegram💻
  <p align="center"><a href="https://t.me/AWCODE3"> 
 <img src="https://telegra.ph/file/bd556ffdac3d12a449c5f.jpg" width="320" height="38.45"/></a></p>
