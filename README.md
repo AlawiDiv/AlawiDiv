@@ -335,13 +335,65 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 
 ### 📧Feel free to write to me:
 ### Contact :
-<p align="left"> 
-<a href="https://t.me/ALAWE1">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
- <a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://discord.com/users/awcode#6762" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/aw-code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/uxxki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-</a> <a href="https://www.linkedin.com/in/AlawiDiv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.youtube.com/@AlaWiDiv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="#">
+    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+  </a>  
+<a href="alawialqurshi@gmail.com">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="http://www.instagram.com/uxxki">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="https://www.linkedin.com/in/AlawiDiv">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+  <a href="#">
+    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/speakerdeck.svg" alt="speakerdeck" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="https://t.me/ALAWE1">
+    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/untappd.svg" alt="untappd" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/viber.svg" alt="viber" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
