@@ -383,17 +383,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
   </a>    <a href="#">
     <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="https://t.me/ALAWE1">
-    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+    <img src="telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
     <img src="tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
-    <img src="svg/social/untappd.svg" alt="untappd" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
-    <img src="svg/social/viber.svg" alt="viber" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
-    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
 </p>
