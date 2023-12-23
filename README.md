@@ -358,7 +358,9 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
   <a href="#">
     <img src="SVG/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
-
+  <a href="#">
+    <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
   <a href="#">
     <img src="SVG/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
