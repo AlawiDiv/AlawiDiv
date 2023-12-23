@@ -337,7 +337,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 ### Contact :
 <p align="left">
  <a href="#"><img src="email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="alawialqurshi@gmail.com"><img src="gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
+<a href="mailto:alawialqurshi@gmail.com"><img src="gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
 <a href="http://www.instagram.com/uxxki"><img src="instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="https://www.linkedin.com/in/AlawiDiv"><img src="linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL">
