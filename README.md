@@ -303,7 +303,9 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 </details>
 
 <br>
-## &#x1f4c8; GitHub Stats
+
+ &#x1f4c8; GitHub Stats
+ 
 
 <br>
 
