@@ -264,7 +264,6 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
   
 ![AlawiDiv](https://github-readme-streak-stats.herokuapp.com/?user=AlawiDiv&theme=dark&hide_border=false)<br/>
 
-<a href="https://github.com/AlawiDiv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlawiDiv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
   
