@@ -337,18 +337,18 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 ### Contact :
 <p align="left">
   <a href="#">
-    <img src="SVG/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+    <img src="email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
 <a href="alawialqurshi@gmail.com">
-    <img src="SVG/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <img src="gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="http://www.instagram.com/uxxki">
-    <img src="SVG/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <img src="instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="https://www.linkedin.com/in/AlawiDiv">
-    <img src="SVG/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -385,7 +385,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
   </a>    <a href="https://t.me/ALAWE1">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
-    <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
+    <img src="tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
