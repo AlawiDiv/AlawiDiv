@@ -341,9 +341,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
  <a href="http://www.instagram.com/uxxki"><img src="instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="https://www.linkedin.com/in/AlawiDiv"><img src="linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="#"><img src="youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="#"><img src="SVG/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="#"><img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="#"><img src="svg/social/speakerdeck.svg" alt="speakerdeck" style="vertical-align:top; margin:6px 4px">
+<a href="#"><img src="snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="https://t.me/ALAWE1"><img src="telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px"> </a>    
 <a href="#"><img src="tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
 </p>
