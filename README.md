@@ -114,7 +114,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 <a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
   
- # 💻 Tech Stack:
+ # 💻 Tech Stack:<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <h3 align="center">
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="69" height="69" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /></div>
@@ -304,7 +304,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 
 <br>
 
-&#x1f4c8; GitHub Stats
+&#x1f4c8; GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
  
 
 <br>
@@ -334,7 +334,7 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 <img src="https://telegra.ph/file/bd556ffdac3d12a449c5f.jpg" width="320" height="38.45"/></a></p>
 
 ### 📧Feel free to write to me:
-### Contact :
+### Contact : <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <p align="left">
  <a href="#"><img src="email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px"></a>  
 <a href="mailto:alawialqurshi@gmail.com"><img src="gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
