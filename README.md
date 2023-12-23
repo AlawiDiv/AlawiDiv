@@ -337,35 +337,35 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 ### Contact :
 <p align="left">
   <a href="#">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
 <a href="alawialqurshi@gmail.com">
-    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="http://www.instagram.com/uxxki">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="https://www.linkedin.com/in/AlawiDiv">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/social/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
   <a href="#">
-    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
+    <img src="SVG/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
